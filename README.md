@@ -68,7 +68,8 @@
   
 
   
-  
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinedesmartin&show_icons=true&locale=en&layout=compact" alt="antoinedesmartin" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoinedesmartin&show_icons=true&locale=en" alt="antoinedesmartin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antoinedesmartin&theme=dark" alt="antoinedesmartin" /></p>
-
